@@ -4,7 +4,7 @@
 基于Tekton构建的python Flask API案例项目
 
 ```
-git clone https://gitee.com/facengineer/demo-code.git -b python
+https://github.com/englandbaron/demo-code
 ```
 
 #### 项目说明

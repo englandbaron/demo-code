@@ -4,7 +4,7 @@
 基于Tekton构建的python Flask API案例项目
 
 ```
-https://github.com/englandbaron/demo-code
+git clone https://github.com/englandbaron/demo-code
 ```
 
 #### 项目说明
